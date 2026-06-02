@@ -3,4 +3,4 @@ public class Main {
         KalkulatorPembagian kalkulator = new KalkulatorPembagian();
         kalkulator.jalankan();
     }
-}
+}0
